@@ -989,7 +989,7 @@
       ],
 
       "Weapon Skin": [
-          {"Name": "Quest Shield Skin (Electric Bloom)", "Price": 2000, "Rarity": 5, "Premium": true}
+          {"Name": "Quest Shield Skin (Electric Bloom)", "Price": 2000, "Rarity": 5, "Premium": true} 
       ]
   }
 }
